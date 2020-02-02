@@ -1,0 +1,14 @@
+{
+  "name": "gridbiz",
+  "version": "1.0.0",
+  "description": "a static responsive website using css grids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "abhishek",
+  "license": "ISC"
+}
